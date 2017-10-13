@@ -11,8 +11,9 @@
  * response data structure:
  * {
  *      html:string,
- *      scripts:[],  // js文件列表
- *      links:[]      // css文件列表
+ *      priorityScripts:[],
+ *      scripts:[],
+ *      links:[]
  *  }
  *
  *
